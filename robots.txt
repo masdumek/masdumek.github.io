@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://masdumek.github.io/sitemap.xml
